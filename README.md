@@ -37,6 +37,7 @@ _**For this example I'm going to be using Lord of the Mysteries**_
 
 #### Finally you can select the starting and ending chapters of the PDF(s) generated
 These will default to 0 and the number of chapters scraped, any missing chapters are due to the website, not the code
+
 ![pdfUI](mdsc/uii.png)
 #### Furthermore you can name the individual PDF(s), if you are generating more than one pdf they will be numbered by chapter #s by default
 #### The interval allows you to generate multiple PDFs with each containing that number, rounding up on the final PDF.
@@ -51,6 +52,7 @@ Assuming you are only generating 1 pdf, you will be prompted to include the chap
 
 #### Finally you will be prompted to convert more from the given link
 For example if you want different covers for different sections, and/or different names or a non-linear gap between different files, to name a few examples.
+
 ![convert more](mdsc/covmore.png)
 
 #### Output:
